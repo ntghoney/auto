@@ -1,0 +1,667 @@
+2019-01-28 14:44:40,646 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 14:44:40,875 - INFO -newRun.py : 263 :runAll - 正在执行第2条用例
+2019-01-28 14:44:40,875 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=3520d5272df7479e9b77293653575bb6; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, lu=299; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 14:44:40,875 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 14:44:40,876 - ERROR -newRun.py : 77 :excute_case - 接口2所关联的接口1在用例中没有选择执行
+2019-01-28 14:44:40,877 - INFO -newRun.py : 263 :runAll - 正在执行第3条用例
+2019-01-28 14:44:40,877 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=3520d5272df7479e9b77293653575bb6; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, lu=299; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 14:44:40,877 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 14:44:41,044 - INFO -newRun.py : 263 :runAll - 正在执行第4条用例
+2019-01-28 14:44:41,045 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=3520d5272df7479e9b77293653575bb6; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, lu=299; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 14:44:41,045 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 14:44:41,219 - INFO -newRun.py : 315 :runAll - 本次测试执行完毕，共耗时0.35秒，共执行用例：3条，成功：0条，失败：1条，阻塞：2条
+2019-01-28 14:44:41,225 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:20:18,461 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:20:36,156 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:20:36,359 - INFO -newRun.py : 263 :runAll - 正在执行第5条用例
+2019-01-28 15:20:36,359 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=3520d5272df7479e9b77293653575bb6; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, lu=299; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:20:36,360 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:20:36,534 - INFO -newRun.py : 315 :runAll - 本次测试执行完毕，共耗时0.18秒，共执行用例：1条，成功：0条，失败：0条，阻塞：1条
+2019-01-28 15:20:36,537 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:24:58,223 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:24:58,400 - INFO -newRun.py : 263 :runAll - 正在执行第2条用例
+2019-01-28 15:24:58,400 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=3520d5272df7479e9b77293653575bb6; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, lu=299; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:24:58,400 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:24:58,401 - ERROR -newRun.py : 77 :excute_case - 接口2所关联的接口1在用例中没有选择执行
+2019-01-28 15:24:58,402 - INFO -newRun.py : 263 :runAll - 正在执行第5条用例
+2019-01-28 15:24:58,402 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=3520d5272df7479e9b77293653575bb6; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, lu=299; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:24:58,403 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:24:58,555 - INFO -newRun.py : 315 :runAll - 本次测试执行完毕，共耗时0.16秒，共执行用例：2条，成功：0条，失败：1条，阻塞：1条
+2019-01-28 15:24:58,562 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:27:38,114 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:27:38,249 - INFO -newRun.py : 263 :runAll - 正在执行第3条用例
+2019-01-28 15:27:38,249 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=3520d5272df7479e9b77293653575bb6; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, lu=299; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:27:38,249 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:27:38,394 - INFO -newRun.py : 263 :runAll - 正在执行第5条用例
+2019-01-28 15:27:38,394 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=3520d5272df7479e9b77293653575bb6; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, lu=299; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:27:38,395 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:27:38,561 - INFO -newRun.py : 315 :runAll - 本次测试执行完毕，共耗时0.32秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 15:27:38,564 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:27:44,728 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:27:44,840 - INFO -newRun.py : 263 :runAll - 正在执行第3条用例
+2019-01-28 15:27:44,840 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=3520d5272df7479e9b77293653575bb6; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, lu=299; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:27:44,840 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:27:44,937 - INFO -newRun.py : 263 :runAll - 正在执行第5条用例
+2019-01-28 15:27:44,938 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=3520d5272df7479e9b77293653575bb6; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, lu=299; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:27:44,938 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:27:45,113 - INFO -newRun.py : 315 :runAll - 本次测试执行完毕，共耗时0.28秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 15:27:45,118 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:28:59,788 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:28:59,923 - INFO -newRun.py : 263 :runAll - 正在执行第3条用例
+2019-01-28 15:28:59,923 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:28:59,924 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:29:00,042 - INFO -newRun.py : 263 :runAll - 正在执行第5条用例
+2019-01-28 15:29:00,043 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=3520d5272df7479e9b77293653575bb6; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, lu=299; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 06:34:24 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:29:00,043 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:29:00,202 - INFO -newRun.py : 315 :runAll - 本次测试执行完毕，共耗时0.28秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 15:29:00,209 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:29:41,683 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:29:41,879 - INFO -newRun.py : 263 :runAll - 正在执行第1条用例
+2019-01-28 15:29:41,880 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:29:41,880 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:29:42,088 - INFO -newRun.py : 90 :excute_case - headers信息写入配置文件成功--->DIS4=aacaefd37ad64622a6003ce2fffe843d; Expires=Tue, 28-Jan-2020 07:29:41 GMT; Max-Age=31536000; Path=/, lu=301; Expires=Tue, 28-Jan-2020 07:29:41 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 07:29:41 GMT; Max-Age=31536000; Path=/
+2019-01-28 15:29:42,124 - INFO -newRun.py : 263 :runAll - 正在执行第3条用例
+2019-01-28 15:29:42,124 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:29:42,125 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:29:42,317 - INFO -newRun.py : 263 :runAll - 正在执行第5条用例
+2019-01-28 15:29:42,317 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=aacaefd37ad64622a6003ce2fffe843d; Expires=Tue, 28-Jan-2020 07:29:41 GMT; Max-Age=31536000; Path=/, lu=301; Expires=Tue, 28-Jan-2020 07:29:41 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 07:29:41 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:29:42,318 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:29:42,518 - INFO -newRun.py : 315 :runAll - 本次测试执行完毕，共耗时0.64秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 15:29:42,526 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:34:46,716 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:34:46,902 - INFO -newRun.py : 263 :runAll - 正在执行第1条用例
+2019-01-28 15:34:46,902 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:34:46,902 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:34:47,061 - INFO -newRun.py : 90 :excute_case - headers信息写入配置文件成功--->DIS4=05135299f67f455f9aab8f92caad85e8; Expires=Tue, 28-Jan-2020 07:34:46 GMT; Max-Age=31536000; Path=/, lu=307; Expires=Tue, 28-Jan-2020 07:34:46 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 07:34:46 GMT; Max-Age=31536000; Path=/
+2019-01-28 15:34:47,101 - INFO -newRun.py : 263 :runAll - 正在执行第3条用例
+2019-01-28 15:34:47,101 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:34:47,101 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:34:47,228 - INFO -newRun.py : 263 :runAll - 正在执行第5条用例
+2019-01-28 15:34:47,229 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=05135299f67f455f9aab8f92caad85e8; Expires=Tue, 28-Jan-2020 07:34:46 GMT; Max-Age=31536000; Path=/, lu=307; Expires=Tue, 28-Jan-2020 07:34:46 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 07:34:46 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:34:47,229 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:34:47,304 - INFO -newRun.py : 315 :runAll - 本次测试执行完毕，共耗时0.41秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 15:34:47,309 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:35:06,003 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:35:06,011 - INFO -run.py : 150 :run - 正在执行第1条用例
+2019-01-28 15:35:06,212 - INFO -run.py : 150 :run - 正在执行第3条用例
+2019-01-28 15:35:06,343 - INFO -run.py : 150 :run - 正在执行第5条用例
+2019-01-28 15:35:06,546 - INFO -run.py : 279 :run - 本次测试执行完毕，共耗时0.56秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 15:35:06,553 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:36:16,458 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:36:16,463 - INFO -run.py : 150 :run - 正在执行第3条用例
+2019-01-28 15:36:16,547 - INFO -run.py : 150 :run - 正在执行第5条用例
+2019-01-28 15:36:16,656 - INFO -run.py : 279 :run - 本次测试执行完毕，共耗时0.21秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 15:36:16,662 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:40:29,878 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:40:30,171 - INFO -newRun.py : 263 :runAll - 正在执行第3条用例
+2019-01-28 15:40:30,171 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:40:30,171 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:40:30,326 - INFO -newRun.py : 263 :runAll - 正在执行第5条用例
+2019-01-28 15:40:30,327 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=05135299f67f455f9aab8f92caad85e8; Expires=Tue, 28-Jan-2020 07:36:15 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:40:30,327 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:40:30,453 - INFO -newRun.py : 315 :runAll - 本次测试执行完毕，共耗时0.29秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 15:40:30,460 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:41:13,289 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:41:13,469 - INFO -newRun.py : 264 :runAll - 正在执行第3条用例
+2019-01-28 15:41:13,469 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:41:13,469 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:41:13,565 - INFO -newRun.py : 264 :runAll - 正在执行第5条用例
+2019-01-28 15:41:13,566 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=05135299f67f455f9aab8f92caad85e8; Expires=Tue, 28-Jan-2020 07:36:15 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:41:13,566 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:41:13,671 - INFO -newRun.py : 316 :runAll - 本次测试执行完毕，共耗时0.21秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 15:41:13,674 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:42:29,097 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:42:29,278 - INFO -newRun.py : 268 :runAll - 正在执行第3条用例
+2019-01-28 15:42:29,279 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:42:29,279 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:42:29,443 - INFO -newRun.py : 268 :runAll - 正在执行第5条用例
+2019-01-28 15:42:29,444 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=05135299f67f455f9aab8f92caad85e8; Expires=Tue, 28-Jan-2020 07:36:15 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:42:29,444 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:42:29,566 - INFO -newRun.py : 320 :runAll - 本次测试执行完毕，共耗时0.3秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 15:42:29,570 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:42:46,286 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:42:46,513 - INFO -newRun.py : 268 :runAll - 正在执行第3条用例
+2019-01-28 15:42:46,514 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:42:46,514 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:42:46,667 - INFO -newRun.py : 268 :runAll - 正在执行第5条用例
+2019-01-28 15:42:46,668 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=05135299f67f455f9aab8f92caad85e8; Expires=Tue, 28-Jan-2020 07:36:15 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:42:46,668 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:42:46,801 - INFO -newRun.py : 320 :runAll - 本次测试执行完毕，共耗时0.29秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 15:42:46,805 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:42:50,234 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:42:50,405 - INFO -newRun.py : 268 :runAll - 正在执行第3条用例
+2019-01-28 15:42:50,405 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:42:50,406 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:42:50,584 - INFO -newRun.py : 268 :runAll - 正在执行第5条用例
+2019-01-28 15:42:50,584 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=05135299f67f455f9aab8f92caad85De8; Expires=Tue, 28-Jan-2020 07:36:15 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:42:50,585 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:42:50,738 - INFO -newRun.py : 320 :runAll - 本次测试执行完毕，共耗时0.34秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 15:42:50,744 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:43:32,867 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:43:33,078 - INFO -newRun.py : 268 :runAll - 正在执行第3条用例
+2019-01-28 15:43:33,078 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:43:33,078 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:43:33,240 - INFO -newRun.py : 268 :runAll - 正在执行第5条用例
+2019-01-28 15:43:33,241 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=05135299f67f455f9aab8f92caad85e8; Expires=Tue, 28-Jan-2020 07:36:15 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:43:33,241 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:43:33,429 - INFO -newRun.py : 320 :runAll - 本次测试执行完毕，共耗时0.35秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 15:43:33,436 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:44:46,081 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:44:46,230 - INFO -newRun.py : 267 :runAll - 正在执行第1条用例
+2019-01-28 15:44:46,231 - INFO -newRun.py : 67 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:44:46,231 - INFO -newRun.py : 69 :excute_case - 关联接口-------->[]
+2019-01-28 15:48:42,735 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:48:42,886 - INFO -newRun.py : 273 :runAll - 正在执行第1条用例
+2019-01-28 15:48:42,886 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:48:42,886 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:48:43,049 - INFO -newRun.py : 92 :excute_case - headers信息写入配置文件成功--->DIS4=4dd0ebad0c7840d280626eb498530295; Expires=Tue, 28-Jan-2020 07:48:42 GMT; Max-Age=31536000; Path=/, lu=309; Expires=Tue, 28-Jan-2020 07:48:42 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 07:48:42 GMT; Max-Age=31536000; Path=/
+2019-01-28 15:48:43,085 - INFO -newRun.py : 273 :runAll - 正在执行第3条用例
+2019-01-28 15:48:43,085 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:48:43,085 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:48:43,277 - INFO -newRun.py : 273 :runAll - 正在执行第5条用例
+2019-01-28 15:48:43,278 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=4dd0ebad0c7840d280626eb498530295; Expires=Tue, 28-Jan-2020 07:48:42 GMT; Max-Age=31536000; Path=/, lu=309; Expires=Tue, 28-Jan-2020 07:48:42 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 07:48:42 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:48:43,278 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:48:43,415 - INFO -newRun.py : 325 :runAll - 本次测试执行完毕，共耗时0.53秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 15:48:43,420 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:50:54,152 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:50:54,348 - INFO -newRun.py : 273 :runAll - 正在执行第1条用例
+2019-01-28 15:50:54,349 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:50:54,349 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:50:54,521 - INFO -newRun.py : 92 :excute_case - headers信息写入配置文件成功--->DIS4=e24b675e360f4a4b9b7ec13334639c7d; Expires=Tue, 28-Jan-2020 07:50:53 GMT; Max-Age=31536000; Path=/, lu=310; Expires=Tue, 28-Jan-2020 07:50:53 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 07:50:53 GMT; Max-Age=31536000; Path=/
+2019-01-28 15:50:54,555 - INFO -newRun.py : 273 :runAll - 正在执行第3条用例
+2019-01-28 15:50:54,555 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:50:54,556 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:50:54,753 - INFO -newRun.py : 92 :excute_case - headers信息写入配置文件成功--->DIS4=d977e20a2f5e45baa399e7c85ff305dd; Expires=Tue, 28-Jan-2020 07:50:53 GMT; Max-Age=31536000; Path=/
+2019-01-28 15:50:54,755 - INFO -newRun.py : 273 :runAll - 正在执行第5条用例
+2019-01-28 15:50:54,756 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=d977e20a2f5e45baa399e7c85ff305dd; Expires=Tue, 28-Jan-2020 07:50:53 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:50:54,756 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:50:54,836 - INFO -newRun.py : 325 :runAll - 本次测试执行完毕，共耗时0.49秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 15:50:54,842 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:52:00,742 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:52:00,893 - INFO -newRun.py : 273 :runAll - 正在执行第3条用例
+2019-01-28 15:52:00,893 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:52:00,893 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:52:01,046 - INFO -newRun.py : 92 :excute_case - headers信息写入配置文件成功--->DIS4=9aae02be42bf4b229921bab41ba0e485; Expires=Tue, 28-Jan-2020 07:52:00 GMT; Max-Age=31536000; Path=/, DIS4=98bcde771aa14cdab8305992dbe3ecd7; Expires=Tue, 28-Jan-2020 07:52:00 GMT; Max-Age=31536000; Path=/, lu=33; Expires=Tue, 28-Jan-2020 07:52:00 GMT; Max-Age=31536000; Path=/, mu=; Expires=Thu, 01-Jan-1970 00:00:00 GMT; Path=/, ln=1; Expires=Tue, 28-Jan-2020 07:52:00 GMT; Max-Age=31536000; Path=/
+2019-01-28 15:52:01,048 - INFO -newRun.py : 273 :runAll - 正在执行第4条用例
+2019-01-28 15:52:01,049 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=9aae02be42bf4b229921bab41ba0e485; Expires=Tue, 28-Jan-2020 07:52:00 GMT; Max-Age=31536000; Path=/, DIS4=98bcde771aa14cdab8305992dbe3ecd7; Expires=Tue, 28-Jan-2020 07:52:00 GMT; Max-Age=31536000; Path=/, lu=33; Expires=Tue, 28-Jan-2020 07:52:00 GMT; Max-Age=31536000; Path=/, mu=; Expires=Thu, 01-Jan-1970 00:00:00 GMT; Path=/, ln=1; Expires=Tue, 28-Jan-2020 07:52:00 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:52:01,049 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:52:01,206 - INFO -newRun.py : 273 :runAll - 正在执行第5条用例
+2019-01-28 15:52:01,207 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=9aae02be42bf4b229921bab41ba0e485; Expires=Tue, 28-Jan-2020 07:52:00 GMT; Max-Age=31536000; Path=/, DIS4=98bcde771aa14cdab8305992dbe3ecd7; Expires=Tue, 28-Jan-2020 07:52:00 GMT; Max-Age=31536000; Path=/, lu=33; Expires=Tue, 28-Jan-2020 07:52:00 GMT; Max-Age=31536000; Path=/, mu=; Expires=Thu, 01-Jan-1970 00:00:00 GMT; Path=/, ln=1; Expires=Tue, 28-Jan-2020 07:52:00 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:52:01,207 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:52:01,469 - INFO -newRun.py : 325 :runAll - 本次测试执行完毕，共耗时0.58秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 15:52:01,475 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:52:20,058 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:52:20,233 - INFO -newRun.py : 273 :runAll - 正在执行第3条用例
+2019-01-28 15:52:20,234 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:52:20,234 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:52:20,433 - INFO -newRun.py : 92 :excute_case - headers信息写入配置文件成功--->DIS4=6b5902256abe48ddb3e2ace7c95ab488; Expires=Tue, 28-Jan-2020 07:52:19 GMT; Max-Age=31536000; Path=/
+2019-01-28 15:52:20,437 - INFO -newRun.py : 273 :runAll - 正在执行第4条用例
+2019-01-28 15:52:20,438 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=6b5902256abe48ddb3e2ace7c95ab488; Expires=Tue, 28-Jan-2020 07:52:19 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:52:20,439 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:52:20,616 - INFO -newRun.py : 273 :runAll - 正在执行第5条用例
+2019-01-28 15:52:20,617 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=6b5902256abe48ddb3e2ace7c95ab488; Expires=Tue, 28-Jan-2020 07:52:19 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:52:20,617 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:52:20,703 - INFO -newRun.py : 325 :runAll - 本次测试执行完毕，共耗时0.48秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 15:52:20,706 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:52:33,053 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:52:33,199 - INFO -newRun.py : 273 :runAll - 正在执行第3条用例
+2019-01-28 15:52:33,199 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:52:33,199 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:52:33,349 - INFO -newRun.py : 92 :excute_case - headers信息写入配置文件成功--->DIS4=b36508051305488a9c7fb0fb73b71251; Expires=Tue, 28-Jan-2020 07:52:32 GMT; Max-Age=31536000; Path=/
+2019-01-28 15:52:33,351 - INFO -newRun.py : 273 :runAll - 正在执行第4条用例
+2019-01-28 15:52:33,352 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=b36508051305488a9c7fb0fb73b71251; Expires=Tue, 28-Jan-2020 07:52:32 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:52:33,352 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:52:33,460 - INFO -newRun.py : 273 :runAll - 正在执行第5条用例
+2019-01-28 15:52:33,460 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=b36508051305488a9c7fb0fb73b71251; Expires=Tue, 28-Jan-2020 07:52:32 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:52:33,461 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:52:33,557 - INFO -newRun.py : 325 :runAll - 本次测试执行完毕，共耗时0.36秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 15:52:33,564 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:53:11,346 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:53:11,565 - INFO -newRun.py : 273 :runAll - 正在执行第3条用例
+2019-01-28 15:53:11,565 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:53:11,565 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:53:11,762 - INFO -newRun.py : 92 :excute_case - headers信息写入配置文件成功--->DIS4=6e9a7fab19914fd8b3761b7be5017c80; Expires=Tue, 28-Jan-2020 07:53:10 GMT; Max-Age=31536000; Path=/, DIS4=b8c33bb0c9fa4e97b47b231b7532d192; Expires=Tue, 28-Jan-2020 07:53:10 GMT; Max-Age=31536000; Path=/, lu=33; Expires=Tue, 28-Jan-2020 07:53:10 GMT; Max-Age=31536000; Path=/, mu=; Expires=Thu, 01-Jan-1970 00:00:00 GMT; Path=/, ln=1; Expires=Tue, 28-Jan-2020 07:53:10 GMT; Max-Age=31536000; Path=/
+2019-01-28 15:53:11,765 - INFO -newRun.py : 273 :runAll - 正在执行第4条用例
+2019-01-28 15:53:11,765 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=6e9a7fab19914fd8b3761b7be5017c80; Expires=Tue, 28-Jan-2020 07:53:10 GMT; Max-Age=31536000; Path=/, DIS4=b8c33bb0c9fa4e97b47b231b7532d192; Expires=Tue, 28-Jan-2020 07:53:10 GMT; Max-Age=31536000; Path=/, lu=33; Expires=Tue, 28-Jan-2020 07:53:10 GMT; Max-Age=31536000; Path=/, mu=; Expires=Thu, 01-Jan-1970 00:00:00 GMT; Path=/, ln=1; Expires=Tue, 28-Jan-2020 07:53:10 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:53:11,766 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:53:11,909 - INFO -newRun.py : 273 :runAll - 正在执行第5条用例
+2019-01-28 15:53:11,909 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=6e9a7fab19914fd8b3761b7be5017c80; Expires=Tue, 28-Jan-2020 07:53:10 GMT; Max-Age=31536000; Path=/, DIS4=b8c33bb0c9fa4e97b47b231b7532d192; Expires=Tue, 28-Jan-2020 07:53:10 GMT; Max-Age=31536000; Path=/, lu=33; Expires=Tue, 28-Jan-2020 07:53:10 GMT; Max-Age=31536000; Path=/, mu=; Expires=Thu, 01-Jan-1970 00:00:00 GMT; Path=/, ln=1; Expires=Tue, 28-Jan-2020 07:53:10 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:53:11,909 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:53:12,013 - INFO -newRun.py : 325 :runAll - 本次测试执行完毕，共耗时0.46秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 15:53:12,019 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:55:02,131 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:55:02,330 - INFO -newRun.py : 273 :runAll - 正在执行第3条用例
+2019-01-28 15:55:02,331 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:55:02,331 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:55:02,443 - INFO -newRun.py : 92 :excute_case - headers信息写入配置文件成功--->DIS4=6e030368ab724fccb2273f028bbcb391; Expires=Tue, 28-Jan-2020 07:55:01 GMT; Max-Age=31536000; Path=/
+2019-01-28 15:55:02,446 - INFO -newRun.py : 273 :runAll - 正在执行第4条用例
+2019-01-28 15:55:02,447 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=6e030368ab724fccb2273f028bbcb391; Expires=Tue, 28-Jan-2020 07:55:01 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:55:02,447 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:55:02,598 - INFO -newRun.py : 273 :runAll - 正在执行第5条用例
+2019-01-28 15:55:02,598 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=6e030368ab724fccb2273f028bbcb391; Expires=Tue, 28-Jan-2020 07:55:01 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:55:02,599 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:55:02,682 - INFO -newRun.py : 325 :runAll - 本次测试执行完毕，共耗时0.36秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 15:55:02,685 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 15:55:18,031 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 15:55:18,154 - INFO -newRun.py : 273 :runAll - 正在执行第3条用例
+2019-01-28 15:55:18,154 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 15:55:18,154 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:55:18,264 - INFO -newRun.py : 92 :excute_case - headers信息写入配置文件成功--->DIS4=5151446195ed4940963d7bcc6d3068d5; Expires=Tue, 28-Jan-2020 07:55:17 GMT; Max-Age=31536000; Path=/, DIS4=e61693bf84904ab9aba5fa93173b73a7; Expires=Tue, 28-Jan-2020 07:55:17 GMT; Max-Age=31536000; Path=/, lu=33; Expires=Tue, 28-Jan-2020 07:55:17 GMT; Max-Age=31536000; Path=/, mu=; Expires=Thu, 01-Jan-1970 00:00:00 GMT; Path=/, ln=1; Expires=Tue, 28-Jan-2020 07:55:17 GMT; Max-Age=31536000; Path=/
+2019-01-28 15:55:18,266 - INFO -newRun.py : 273 :runAll - 正在执行第4条用例
+2019-01-28 15:55:18,266 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=5151446195ed4940963d7bcc6d3068d5; Expires=Tue, 28-Jan-2020 07:55:17 GMT; Max-Age=31536000; Path=/, DIS4=e61693bf84904ab9aba5fa93173b73a7; Expires=Tue, 28-Jan-2020 07:55:17 GMT; Max-Age=31536000; Path=/, lu=33; Expires=Tue, 28-Jan-2020 07:55:17 GMT; Max-Age=31536000; Path=/, mu=; Expires=Thu, 01-Jan-1970 00:00:00 GMT; Path=/, ln=1; Expires=Tue, 28-Jan-2020 07:55:17 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:55:18,266 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:55:18,375 - INFO -newRun.py : 273 :runAll - 正在执行第5条用例
+2019-01-28 15:55:18,376 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=5151446195ed4940963d7bcc6d3068d5; Expires=Tue, 28-Jan-2020 07:55:17 GMT; Max-Age=31536000; Path=/, DIS4=e61693bf84904ab9aba5fa93173b73a7; Expires=Tue, 28-Jan-2020 07:55:17 GMT; Max-Age=31536000; Path=/, lu=33; Expires=Tue, 28-Jan-2020 07:55:17 GMT; Max-Age=31536000; Path=/, mu=; Expires=Thu, 01-Jan-1970 00:00:00 GMT; Path=/, ln=1; Expires=Tue, 28-Jan-2020 07:55:17 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 15:55:18,376 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 15:55:18,532 - INFO -newRun.py : 325 :runAll - 本次测试执行完毕，共耗时0.38秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 15:55:18,539 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 16:21:55,773 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 16:21:55,893 - INFO -newRun.py : 273 :runAll - 正在执行第3条用例
+2019-01-28 16:21:55,893 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 16:21:55,893 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:21:56,066 - INFO -newRun.py : 92 :excute_case - headers信息写入配置文件成功--->DIS4=98bc9740730d4364b079ada1c082ca59; Expires=Tue, 28-Jan-2020 08:21:54 GMT; Max-Age=31536000; Path=/
+2019-01-28 16:21:56,068 - INFO -newRun.py : 273 :runAll - 正在执行第4条用例
+2019-01-28 16:21:56,069 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=98bc9740730d4364b079ada1c082ca59; Expires=Tue, 28-Jan-2020 08:21:54 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:21:56,069 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:21:56,156 - INFO -newRun.py : 273 :runAll - 正在执行第5条用例
+2019-01-28 16:21:56,156 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=98bc9740730d4364b079ada1c082ca59; Expires=Tue, 28-Jan-2020 08:21:54 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:21:56,157 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:21:56,323 - INFO -newRun.py : 325 :runAll - 本次测试执行完毕，共耗时0.43秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 16:21:56,327 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 16:24:08,213 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 16:24:08,387 - INFO -newRun.py : 273 :runAll - 正在执行第3条用例
+2019-01-28 16:24:08,387 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 16:24:08,387 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:24:08,558 - INFO -newRun.py : 92 :excute_case - headers信息写入配置文件成功--->DIS4=4e668bcbf6944e689c2bf16aaa14e538; Expires=Tue, 28-Jan-2020 08:24:07 GMT; Max-Age=31536000; Path=/
+2019-01-28 16:24:08,561 - INFO -newRun.py : 273 :runAll - 正在执行第4条用例
+2019-01-28 16:24:08,561 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=4e668bcbf6944e689c2bf16aaa14e538; Expires=Tue, 28-Jan-2020 08:24:07 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:24:08,561 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:24:08,712 - INFO -newRun.py : 273 :runAll - 正在执行第5条用例
+2019-01-28 16:24:08,712 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=4e668bcbf6944e689c2bf16aaa14e538; Expires=Tue, 28-Jan-2020 08:24:07 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:24:08,713 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:24:08,813 - INFO -newRun.py : 325 :runAll - 本次测试执行完毕，共耗时0.44秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 16:24:08,816 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 16:24:41,488 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 16:24:41,628 - INFO -newRun.py : 273 :runAll - 正在执行第1条用例
+2019-01-28 16:24:41,628 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 16:24:41,629 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:24:41,756 - INFO -newRun.py : 92 :excute_case - headers信息写入配置文件成功--->DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/
+2019-01-28 16:24:41,828 - INFO -newRun.py : 273 :runAll - 正在执行第4条用例
+2019-01-28 16:24:41,828 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:24:41,829 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:24:41,945 - INFO -newRun.py : 273 :runAll - 正在执行第5条用例
+2019-01-28 16:24:41,946 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:24:41,946 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:24:42,116 - INFO -newRun.py : 325 :runAll - 本次测试执行完毕，共耗时0.49秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 16:24:42,123 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 16:26:47,152 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 16:26:47,320 - INFO -newRun.py : 273 :runAll - 正在执行第2条用例
+2019-01-28 16:26:47,320 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:26:47,320 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:26:47,320 - ERROR -newRun.py : 87 :excute_case - ERRRR:暂不支持f这种请求方式
+2019-01-28 16:26:47,324 - INFO -newRun.py : 273 :runAll - 正在执行第4条用例
+2019-01-28 16:26:47,324 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:26:47,325 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:26:47,472 - INFO -newRun.py : 273 :runAll - 正在执行第5条用例
+2019-01-28 16:26:47,473 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:26:47,473 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:26:47,659 - INFO -newRun.py : 325 :runAll - 本次测试执行完毕，共耗时0.37秒，共执行用例：3条，成功：0条，失败：1条，阻塞：2条
+2019-01-28 16:26:47,666 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 16:27:10,227 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 16:27:10,392 - INFO -newRun.py : 273 :runAll - 正在执行第2条用例
+2019-01-28 16:27:10,392 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:27:10,392 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:27:10,530 - INFO -newRun.py : 273 :runAll - 正在执行第4条用例
+2019-01-28 16:27:10,530 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:27:10,531 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:27:10,625 - INFO -newRun.py : 273 :runAll - 正在执行第5条用例
+2019-01-28 16:27:10,625 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:27:10,626 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:27:10,777 - INFO -newRun.py : 325 :runAll - 本次测试执行完毕，共耗时0.4秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 16:27:10,785 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 16:53:03,573 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 16:53:03,743 - INFO -newRun.py : 273 :runAll - 正在执行第2条用例
+2019-01-28 16:53:03,744 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:53:03,744 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:53:03,835 - INFO -newRun.py : 273 :runAll - 正在执行第4条用例
+2019-01-28 16:53:03,835 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:53:03,836 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:53:03,939 - INFO -newRun.py : 273 :runAll - 正在执行第5条用例
+2019-01-28 16:53:03,940 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:53:03,940 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:53:04,032 - INFO -newRun.py : 325 :runAll - 本次测试执行完毕，共耗时0.29秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 16:53:04,040 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 16:53:11,385 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 16:53:11,598 - INFO -newRun.py : 273 :runAll - 正在执行第2条用例
+2019-01-28 16:53:11,598 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:53:11,598 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:53:11,700 - INFO -newRun.py : 273 :runAll - 正在执行第4条用例
+2019-01-28 16:53:11,701 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:53:11,701 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:53:11,806 - INFO -newRun.py : 273 :runAll - 正在执行第5条用例
+2019-01-28 16:53:11,806 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:53:11,807 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:53:11,887 - INFO -newRun.py : 325 :runAll - 本次测试执行完毕，共耗时0.3秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 16:53:11,891 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 16:54:23,728 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 16:54:24,170 - INFO -newRun.py : 273 :runAll - 正在执行第2条用例
+2019-01-28 16:54:24,170 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:54:24,170 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:54:24,317 - INFO -newRun.py : 273 :runAll - 正在执行第4条用例
+2019-01-28 16:54:24,317 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:54:24,318 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:54:24,433 - INFO -newRun.py : 273 :runAll - 正在执行第5条用例
+2019-01-28 16:54:24,434 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:54:24,434 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:54:24,656 - INFO -newRun.py : 325 :runAll - 本次测试执行完毕，共耗时0.49秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 16:54:24,663 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 16:54:30,540 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 16:54:30,728 - INFO -newRun.py : 273 :runAll - 正在执行第2条用例
+2019-01-28 16:54:30,728 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:54:30,729 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:54:30,834 - INFO -newRun.py : 273 :runAll - 正在执行第4条用例
+2019-01-28 16:54:30,834 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:54:30,834 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:54:31,013 - INFO -newRun.py : 273 :runAll - 正在执行第5条用例
+2019-01-28 16:54:31,014 - INFO -newRun.py : 69 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:54:31,014 - INFO -newRun.py : 71 :excute_case - 关联接口-------->[]
+2019-01-28 16:54:31,156 - INFO -newRun.py : 325 :runAll - 本次测试执行完毕，共耗时0.44秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 16:54:31,164 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 16:55:26,700 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 16:55:26,928 - INFO -newRun.py : 274 :runAll - 正在执行第2条用例
+2019-01-28 16:55:26,928 - INFO -newRun.py : 70 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:55:26,928 - INFO -newRun.py : 72 :excute_case - 关联接口-------->[]
+2019-01-28 16:55:27,044 - INFO -newRun.py : 274 :runAll - 正在执行第4条用例
+2019-01-28 16:55:27,044 - INFO -newRun.py : 70 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:55:27,044 - INFO -newRun.py : 72 :excute_case - 关联接口-------->[]
+2019-01-28 16:55:27,208 - INFO -newRun.py : 274 :runAll - 正在执行第5条用例
+2019-01-28 16:55:27,208 - INFO -newRun.py : 70 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:55:27,208 - INFO -newRun.py : 72 :excute_case - 关联接口-------->[]
+2019-01-28 16:55:27,342 - INFO -newRun.py : 326 :runAll - 本次测试执行完毕，共耗时0.42秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 16:55:27,349 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 16:55:58,701 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 16:55:58,894 - INFO -newRun.py : 275 :runAll - 正在执行第2条用例
+2019-01-28 16:55:58,894 - INFO -newRun.py : 71 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:55:58,894 - INFO -newRun.py : 73 :excute_case - 关联接口-------->[]
+2019-01-28 16:55:58,993 - INFO -newRun.py : 275 :runAll - 正在执行第4条用例
+2019-01-28 16:55:58,994 - INFO -newRun.py : 71 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:55:58,994 - INFO -newRun.py : 73 :excute_case - 关联接口-------->[]
+2019-01-28 16:55:59,088 - INFO -newRun.py : 275 :runAll - 正在执行第5条用例
+2019-01-28 16:55:59,089 - INFO -newRun.py : 71 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=a3dcf2e8263945fd82bbbc0df4480ab8; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, lu=311; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:24:40 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:55:59,089 - INFO -newRun.py : 73 :excute_case - 关联接口-------->[]
+2019-01-28 16:55:59,204 - INFO -newRun.py : 327 :runAll - 本次测试执行完毕，共耗时0.32秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 16:55:59,208 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 16:56:38,436 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 16:56:38,620 - INFO -newRun.py : 275 :runAll - 正在执行第3条用例
+2019-01-28 16:56:38,621 - INFO -newRun.py : 71 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 16:56:38,621 - INFO -newRun.py : 73 :excute_case - 关联接口-------->[]
+2019-01-28 16:56:38,761 - INFO -newRun.py : 94 :excute_case - headers信息写入配置文件成功--->DIS4=4ac070f245f945bcad753867cf0ba7e5; Expires=Tue, 28-Jan-2020 08:56:37 GMT; Max-Age=31536000; Path=/, DIS4=4c1ec1cb2beb43ccaf679213cd998b7a; Expires=Tue, 28-Jan-2020 08:56:37 GMT; Max-Age=31536000; Path=/, lu=312; Expires=Tue, 28-Jan-2020 08:56:37 GMT; Max-Age=31536000; Path=/, mu=; Expires=Thu, 01-Jan-1970 00:00:00 GMT; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:56:37 GMT; Max-Age=31536000; Path=/
+2019-01-28 16:56:38,764 - INFO -newRun.py : 275 :runAll - 正在执行第4条用例
+2019-01-28 16:56:38,765 - INFO -newRun.py : 71 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=4ac070f245f945bcad753867cf0ba7e5; Expires=Tue, 28-Jan-2020 08:56:37 GMT; Max-Age=31536000; Path=/, DIS4=4c1ec1cb2beb43ccaf679213cd998b7a; Expires=Tue, 28-Jan-2020 08:56:37 GMT; Max-Age=31536000; Path=/, lu=312; Expires=Tue, 28-Jan-2020 08:56:37 GMT; Max-Age=31536000; Path=/, mu=; Expires=Thu, 01-Jan-1970 00:00:00 GMT; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:56:37 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:56:38,765 - INFO -newRun.py : 73 :excute_case - 关联接口-------->[]
+2019-01-28 16:56:38,850 - INFO -newRun.py : 275 :runAll - 正在执行第5条用例
+2019-01-28 16:56:38,850 - INFO -newRun.py : 71 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=4ac070f245f945bcad753867cf0ba7e5; Expires=Tue, 28-Jan-2020 08:56:37 GMT; Max-Age=31536000; Path=/, DIS4=4c1ec1cb2beb43ccaf679213cd998b7a; Expires=Tue, 28-Jan-2020 08:56:37 GMT; Max-Age=31536000; Path=/, lu=312; Expires=Tue, 28-Jan-2020 08:56:37 GMT; Max-Age=31536000; Path=/, mu=; Expires=Thu, 01-Jan-1970 00:00:00 GMT; Path=/, ln=1; Expires=Tue, 28-Jan-2020 08:56:37 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 16:56:38,850 - INFO -newRun.py : 73 :excute_case - 关联接口-------->[]
+2019-01-28 16:56:38,998 - INFO -newRun.py : 327 :runAll - 本次测试执行完毕，共耗时0.39秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 16:56:39,002 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:06:48,489 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:06:48,647 - INFO -newRun.py : 280 :runAll - 正在执行第3条用例
+2019-01-28 18:06:48,647 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:06:48,647 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:06:48,840 - INFO -newRun.py : 97 :excute_case - headers信息写入配置文件成功--->DIS4=ad47318fb85543ebbb17525f7f5b9691; Expires=Tue, 28-Jan-2020 10:06:47 GMT; Max-Age=31536000; Path=/
+2019-01-28 18:06:48,847 - INFO -newRun.py : 332 :runAll - 本次测试执行完毕，共耗时0.2秒，共执行用例：1条，成功：0条，失败：0条，阻塞：1条
+2019-01-28 18:06:48,853 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:07:45,958 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:07:46,162 - INFO -newRun.py : 280 :runAll - 正在执行第3条用例
+2019-01-28 18:07:46,162 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:07:46,162 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:07:46,273 - INFO -newRun.py : 97 :excute_case - headers信息写入配置文件成功--->DIS4=10b906d747bd42278c40a7e1d5eff3c6; Expires=Tue, 28-Jan-2020 10:07:44 GMT; Max-Age=31536000; Path=/
+2019-01-28 18:07:46,278 - INFO -newRun.py : 332 :runAll - 本次测试执行完毕，共耗时0.12秒，共执行用例：1条，成功：0条，失败：0条，阻塞：1条
+2019-01-28 18:07:46,284 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:08:27,478 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:08:27,633 - INFO -newRun.py : 280 :runAll - 正在执行第3条用例
+2019-01-28 18:08:27,633 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:08:27,633 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:08:27,777 - INFO -newRun.py : 97 :excute_case - headers信息写入配置文件成功--->DIS4=b724732c617847c3a5702a5dfcc33264; Expires=Tue, 28-Jan-2020 10:08:26 GMT; Max-Age=31536000; Path=/
+2019-01-28 18:08:27,782 - INFO -newRun.py : 332 :runAll - 本次测试执行完毕，共耗时0.15秒，共执行用例：1条，成功：0条，失败：0条，阻塞：1条
+2019-01-28 18:08:27,790 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:09:51,963 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:09:52,208 - INFO -newRun.py : 280 :runAll - 正在执行第3条用例
+2019-01-28 18:09:52,208 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:09:52,208 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:09:52,337 - INFO -newRun.py : 97 :excute_case - headers信息写入配置文件成功--->DIS4=b9e9b4e393cc40a49c5060ec3ab0e4c2; Expires=Tue, 28-Jan-2020 10:09:50 GMT; Max-Age=31536000; Path=/
+2019-01-28 18:09:52,338 - INFO -newRun.py : 280 :runAll - 正在执行第4条用例
+2019-01-28 18:09:52,339 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=b9e9b4e393cc40a49c5060ec3ab0e4c2; Expires=Tue, 28-Jan-2020 10:09:50 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 18:09:52,339 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:09:52,439 - INFO -newRun.py : 332 :runAll - 本次测试执行完毕，共耗时0.24秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 18:09:52,442 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:10:14,546 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:10:14,757 - INFO -newRun.py : 280 :runAll - 正在执行第3条用例
+2019-01-28 18:10:14,757 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:10:14,758 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:10:14,946 - INFO -newRun.py : 97 :excute_case - headers信息写入配置文件成功--->DIS4=63e74c9f178746c69699785a93921079; Expires=Tue, 28-Jan-2020 10:10:13 GMT; Max-Age=31536000; Path=/, DIS4=dd2de1bce8354d4a830d3bf3fd87a21d; Expires=Tue, 28-Jan-2020 10:10:13 GMT; Max-Age=31536000; Path=/, lu=312; Expires=Tue, 28-Jan-2020 10:10:13 GMT; Max-Age=31536000; Path=/, mu=; Expires=Thu, 01-Jan-1970 00:00:00 GMT; Path=/, ln=1; Expires=Tue, 28-Jan-2020 10:10:13 GMT; Max-Age=31536000; Path=/
+2019-01-28 18:10:14,949 - INFO -newRun.py : 280 :runAll - 正在执行第4条用例
+2019-01-28 18:10:14,950 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=63e74c9f178746c69699785a93921079; Expires=Tue, 28-Jan-2020 10:10:13 GMT; Max-Age=31536000; Path=/, DIS4=dd2de1bce8354d4a830d3bf3fd87a21d; Expires=Tue, 28-Jan-2020 10:10:13 GMT; Max-Age=31536000; Path=/, lu=312; Expires=Tue, 28-Jan-2020 10:10:13 GMT; Max-Age=31536000; Path=/, mu=; Expires=Thu, 01-Jan-1970 00:00:00 GMT; Path=/, ln=1; Expires=Tue, 28-Jan-2020 10:10:13 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 18:10:14,950 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:10:15,076 - INFO -newRun.py : 332 :runAll - 本次测试执行完毕，共耗时0.32秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 18:10:15,079 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:12:48,390 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:12:48,586 - INFO -newRun.py : 281 :runAll - 正在执行第3条用例
+2019-01-28 18:12:48,587 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:12:48,587 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:12:48,711 - INFO -newRun.py : 97 :excute_case - headers信息写入配置文件成功--->DIS4=1f9f46a73abf4256aa02a2a84004b98e; Expires=Tue, 28-Jan-2020 10:12:47 GMT; Max-Age=31536000; Path=/
+2019-01-28 18:12:48,713 - INFO -newRun.py : 281 :runAll - 正在执行第4条用例
+2019-01-28 18:12:48,713 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=1f9f46a73abf4256aa02a2a84004b98e; Expires=Tue, 28-Jan-2020 10:12:47 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 18:12:48,714 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:12:48,824 - INFO -newRun.py : 333 :runAll - 本次测试执行完毕，共耗时0.24秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 18:12:48,832 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:12:54,897 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:12:55,124 - INFO -newRun.py : 281 :runAll - 正在执行第3条用例
+2019-01-28 18:12:55,124 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:12:55,124 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:12:55,219 - INFO -newRun.py : 97 :excute_case - headers信息写入配置文件成功--->DIS4=16d80780253547b2a54a2ae96acc4445; Expires=Tue, 28-Jan-2020 10:12:53 GMT; Max-Age=31536000; Path=/
+2019-01-28 18:12:55,221 - INFO -newRun.py : 281 :runAll - 正在执行第4条用例
+2019-01-28 18:12:55,222 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=16d80780253547b2a54a2ae96acc4445; Expires=Tue, 28-Jan-2020 10:12:53 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 18:12:55,223 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:12:55,362 - INFO -newRun.py : 333 :runAll - 本次测试执行完毕，共耗时0.24秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 18:12:55,368 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:14:02,839 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:14:02,990 - INFO -newRun.py : 283 :runAll - 正在执行第3条用例
+2019-01-28 18:14:02,990 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:14:02,990 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:14:03,123 - INFO -newRun.py : 283 :runAll - 正在执行第4条用例
+2019-01-28 18:14:03,123 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=16d80780253547b2a54a2ae96acc4445; Expires=Tue, 28-Jan-2020 10:12:53 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 18:14:03,124 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:14:03,297 - INFO -newRun.py : 335 :runAll - 本次测试执行完毕，共耗时0.31秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 18:14:03,303 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:14:35,309 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:14:35,500 - INFO -newRun.py : 283 :runAll - 正在执行第3条用例
+2019-01-28 18:14:35,500 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:14:35,500 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:14:35,704 - INFO -newRun.py : 283 :runAll - 正在执行第4条用例
+2019-01-28 18:14:35,704 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'headers': 'DIS4=16d80780253547b2a54a2ae96acc4445; Expires=Tue, 28-Jan-2020 10:12:53 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 18:14:35,705 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:14:35,862 - INFO -newRun.py : 335 :runAll - 本次测试执行完毕，共耗时0.37秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 18:14:35,865 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:16:26,148 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:16:26,339 - INFO -newRun.py : 283 :runAll - 正在执行第3条用例
+2019-01-28 18:16:26,340 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:16:26,340 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:16:26,442 - INFO -newRun.py : 283 :runAll - 正在执行第4条用例
+2019-01-28 18:16:26,442 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=16d80780253547b2a54a2ae96acc4445; Expires=Tue, 28-Jan-2020 10:12:53 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 18:16:26,443 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:16:26,538 - INFO -newRun.py : 335 :runAll - 本次测试执行完毕，共耗时0.2秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 18:16:26,542 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:17:58,105 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:17:58,283 - INFO -newRun.py : 283 :runAll - 正在执行第3条用例
+2019-01-28 18:17:58,283 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:17:58,283 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:17:58,404 - INFO -newRun.py : 283 :runAll - 正在执行第4条用例
+2019-01-28 18:17:58,404 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=16d80780253547b2a54a2ae96acc4445; Expires=Tue, 28-Jan-2020 10:12:53 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 18:17:58,404 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:17:58,559 - INFO -newRun.py : 335 :runAll - 本次测试执行完毕，共耗时0.28秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 18:17:58,566 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:19:01,387 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:19:01,611 - INFO -newRun.py : 283 :runAll - 正在执行第3条用例
+2019-01-28 18:19:01,611 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:19:01,612 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:19:01,742 - INFO -newRun.py : 283 :runAll - 正在执行第4条用例
+2019-01-28 18:19:01,743 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=16d80780253547b2a54a2ae96acc4445; Expires=Tue, 28-Jan-2020 10:12:53 GMT; Max-Age=31536000; Path=/'}
+2019-01-28 18:19:01,743 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:19:01,830 - INFO -newRun.py : 335 :runAll - 本次测试执行完毕，共耗时0.22秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 18:19:01,837 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:21:03,969 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:21:04,116 - INFO -newRun.py : 283 :runAll - 正在执行第3条用例
+2019-01-28 18:21:04,116 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:21:04,116 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:22:24,292 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:22:24,471 - INFO -newRun.py : 283 :runAll - 正在执行第3条用例
+2019-01-28 18:22:24,472 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:22:24,472 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:22:58,043 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:22:58,232 - INFO -newRun.py : 283 :runAll - 正在执行第3条用例
+2019-01-28 18:22:58,232 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:22:58,232 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:23:30,407 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:23:30,654 - INFO -newRun.py : 283 :runAll - 正在执行第3条用例
+2019-01-28 18:23:30,654 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:23:30,654 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:23:44,224 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:23:44,531 - INFO -newRun.py : 283 :runAll - 正在执行第3条用例
+2019-01-28 18:23:44,531 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:23:44,531 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:23:44,681 - INFO -newRun.py : 99 :excute_case - headers信息写入配置文件成功--->741b5ebd73d7442aa7416626efde3bb8
+2019-01-28 18:23:44,683 - INFO -newRun.py : 283 :runAll - 正在执行第4条用例
+2019-01-28 18:23:44,683 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': '741b5ebd73d7442aa7416626efde3bb8'}
+2019-01-28 18:23:44,684 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:23:44,767 - INFO -newRun.py : 335 :runAll - 本次测试执行完毕，共耗时0.25秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 18:23:44,772 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:26:48,037 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:26:48,231 - INFO -newRun.py : 283 :runAll - 正在执行第3条用例
+2019-01-28 18:26:48,231 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:26:48,231 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:26:56,178 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:26:56,355 - INFO -newRun.py : 283 :runAll - 正在执行第3条用例
+2019-01-28 18:26:56,355 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:26:56,355 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:27:15,509 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:27:15,673 - INFO -newRun.py : 283 :runAll - 正在执行第3条用例
+2019-01-28 18:27:15,673 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:27:15,673 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:27:15,814 - INFO -newRun.py : 99 :excute_case - headers信息写入配置文件成功--->ad0981998a904037afe89fb8e5902f01
+2019-01-28 18:27:15,816 - INFO -newRun.py : 283 :runAll - 正在执行第4条用例
+2019-01-28 18:27:15,816 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'ad0981998a904037afe89fb8e5902f01'}
+2019-01-28 18:27:15,817 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:27:15,973 - INFO -newRun.py : 335 :runAll - 本次测试执行完毕，共耗时0.31秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 18:27:15,983 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:27:29,156 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:27:29,301 - INFO -newRun.py : 283 :runAll - 正在执行第3条用例
+2019-01-28 18:27:29,302 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:27:29,302 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:27:29,452 - INFO -newRun.py : 99 :excute_case - headers信息写入配置文件成功--->a464d1197b26418cb9ba6b5312e498bd
+2019-01-28 18:27:29,454 - INFO -newRun.py : 283 :runAll - 正在执行第4条用例
+2019-01-28 18:27:29,455 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'a464d1197b26418cb9ba6b5312e498bd'}
+2019-01-28 18:27:29,455 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:27:29,607 - INFO -newRun.py : 335 :runAll - 本次测试执行完毕，共耗时0.31秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 18:27:29,615 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:30:42,549 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:30:42,764 - INFO -newRun.py : 283 :runAll - 正在执行第3条用例
+2019-01-28 18:30:42,764 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:30:42,764 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:33:02,227 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:33:02,575 - INFO -newRun.py : 283 :runAll - 正在执行第3条用例
+2019-01-28 18:33:02,575 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:33:02,576 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:33:02,759 - INFO -newRun.py : 99 :excute_case - headers信息写入配置文件成功--->d3923348f5884b70b29bfea144830488
+2019-01-28 18:33:02,761 - INFO -newRun.py : 283 :runAll - 正在执行第4条用例
+2019-01-28 18:33:02,761 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=d3923348f5884b70b29bfea144830488'}
+2019-01-28 18:33:02,762 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:33:02,911 - INFO -newRun.py : 335 :runAll - 本次测试执行完毕，共耗时0.34秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 18:33:02,919 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:33:35,513 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:33:35,692 - INFO -newRun.py : 283 :runAll - 正在执行第4条用例
+2019-01-28 18:33:35,692 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=d3923348f5884b70b29bfea144830488'}
+2019-01-28 18:33:35,692 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:33:35,814 - INFO -newRun.py : 283 :runAll - 正在执行第5条用例
+2019-01-28 18:33:35,814 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=d3923348f5884b70b29bfea144830488'}
+2019-01-28 18:33:35,815 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:33:35,907 - INFO -newRun.py : 335 :runAll - 本次测试执行完毕，共耗时0.23秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 18:33:35,912 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:39:36,300 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:39:36,488 - INFO -newRun.py : 289 :runAll - 正在执行第4条用例
+2019-01-28 18:39:36,488 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=d3923348f5884b70b29bfea144830488'}
+2019-01-28 18:39:36,489 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:39:36,658 - INFO -newRun.py : 289 :runAll - 正在执行第5条用例
+2019-01-28 18:39:36,658 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=d3923348f5884b70b29bfea144830488'}
+2019-01-28 18:39:36,659 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:39:36,782 - INFO -newRun.py : 341 :runAll - 本次测试执行完毕，共耗时0.3秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 18:39:36,789 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:39:42,125 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:39:42,233 - INFO -newRun.py : 289 :runAll - 正在执行第4条用例
+2019-01-28 18:39:42,233 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=d3923348f5884b70b29bfea144830488'}
+2019-01-28 18:39:42,233 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:39:42,406 - INFO -newRun.py : 289 :runAll - 正在执行第5条用例
+2019-01-28 18:39:42,406 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=d3923348f5884b70b29bfea144830488'}
+2019-01-28 18:39:42,406 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:39:42,559 - INFO -newRun.py : 341 :runAll - 本次测试执行完毕，共耗时0.33秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 18:39:42,563 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:39:56,229 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:39:56,375 - INFO -newRun.py : 289 :runAll - 正在执行第2条用例
+2019-01-28 18:39:56,376 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=d3923348f5884b70b29bfea144830488'}
+2019-01-28 18:39:56,376 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:39:56,481 - INFO -newRun.py : 289 :runAll - 正在执行第4条用例
+2019-01-28 18:39:56,482 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=d3923348f5884b70b29bfea144830488'}
+2019-01-28 18:39:56,482 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:39:56,581 - INFO -newRun.py : 289 :runAll - 正在执行第5条用例
+2019-01-28 18:39:56,581 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=d3923348f5884b70b29bfea144830488'}
+2019-01-28 18:39:56,582 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:39:56,714 - INFO -newRun.py : 341 :runAll - 本次测试执行完毕，共耗时0.35秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 18:39:56,718 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:40:19,834 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:40:20,036 - INFO -newRun.py : 289 :runAll - 正在执行第3条用例
+2019-01-28 18:40:20,037 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:40:20,037 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:41:28,257 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:41:28,445 - INFO -newRun.py : 290 :runAll - 正在执行第3条用例
+2019-01-28 18:41:28,445 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:41:28,445 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:41:28,532 - INFO -newRun.py : 102 :excute_case - headers信息写入配置文件成功--->f8c8f31f41814f709991dc5955434720
+2019-01-28 18:41:28,535 - INFO -newRun.py : 290 :runAll - 正在执行第4条用例
+2019-01-28 18:41:28,535 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=f8c8f31f41814f709991dc5955434720'}
+2019-01-28 18:41:28,536 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:41:28,662 - INFO -newRun.py : 290 :runAll - 正在执行第5条用例
+2019-01-28 18:41:28,663 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=f8c8f31f41814f709991dc5955434720'}
+2019-01-28 18:41:28,663 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:41:28,757 - INFO -newRun.py : 342 :runAll - 本次测试执行完毕，共耗时0.32秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 18:41:28,761 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:41:51,573 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:41:51,775 - INFO -newRun.py : 290 :runAll - 正在执行第3条用例
+2019-01-28 18:41:51,775 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->None
+2019-01-28 18:41:51,775 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:41:51,896 - INFO -newRun.py : 99 :excute_case - headers信息写入配置文件成功--->bd2e5da8b8f64e40ae1b7a79cd37785f
+2019-01-28 18:41:51,898 - INFO -newRun.py : 290 :runAll - 正在执行第4条用例
+2019-01-28 18:41:51,898 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=bd2e5da8b8f64e40ae1b7a79cd37785f'}
+2019-01-28 18:41:51,898 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:41:52,091 - INFO -newRun.py : 290 :runAll - 正在执行第5条用例
+2019-01-28 18:41:52,092 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=bd2e5da8b8f64e40ae1b7a79cd37785f'}
+2019-01-28 18:41:52,092 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:41:52,262 - INFO -newRun.py : 342 :runAll - 本次测试执行完毕，共耗时0.5秒，共执行用例：3条，成功：0条，失败：0条，阻塞：3条
+2019-01-28 18:41:52,266 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:42:23,920 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:42:24,210 - INFO -newRun.py : 290 :runAll - 正在执行第4条用例
+2019-01-28 18:42:24,211 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=bd2e5da8b8f64e40ae1b7a79cd37785f'}
+2019-01-28 18:42:24,211 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:42:24,357 - INFO -newRun.py : 290 :runAll - 正在执行第5条用例
+2019-01-28 18:42:24,357 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=bd2e5da8b8f64e40ae1b7a79cd37785f'}
+2019-01-28 18:42:24,357 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:42:24,574 - INFO -newRun.py : 342 :runAll - 本次测试执行完毕，共耗时0.37秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 18:42:24,581 - INFO -report.py : 147 :get_report - 正在写入用例执行情况
+2019-01-28 18:46:16,759 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\exmple.xlsx
+2019-01-28 18:46:16,914 - INFO -newRun.py : 290 :runAll - 正在执行第4条用例
+2019-01-28 18:46:16,915 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=bd2e5da8b8f64e40ae1b7a79cd37785f'}
+2019-01-28 18:46:16,915 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:46:17,085 - INFO -newRun.py : 290 :runAll - 正在执行第5条用例
+2019-01-28 18:46:17,085 - INFO -newRun.py : 74 :excute_case - 此次接口请求的header信息为--->{'cookie': 'DIS4=bd2e5da8b8f64e40ae1b7a79cd37785f'}
+2019-01-28 18:46:17,085 - INFO -newRun.py : 76 :excute_case - 关联接口-------->[]
+2019-01-28 18:46:17,181 - INFO -newRun.py : 342 :runAll - 本次测试执行完毕，共耗时0.27秒，共执行用例：2条，成功：0条，失败：0条，阻塞：2条
+2019-01-28 18:46:17,188 - INFO -report.py : 147 :get_report - 正在写入用例执行情况

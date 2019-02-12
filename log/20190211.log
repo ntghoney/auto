@@ -1,0 +1,40 @@
+2019-02-11 09:13:55,026 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple.xlsx
+2019-02-11 09:13:55,027 - INFO -newRun.py : 422 :runAll - 共获取2条用例
+2019-02-11 09:13:55,039 - INFO -newRun.py : 436 :runAll - 正在执行caseId=3的用例
+2019-02-11 09:13:55,093 - INFO -newRun.py : 191 :excute_case - 此次接口请求的header信息为--->None
+2019-02-11 09:13:55,249 - INFO -newRun.py : 150 :request_api - headers信息写入配置文件成功--->ace635094e274af3b715212c733aa6f4
+2019-02-11 09:13:55,281 - INFO -newRun.py : 436 :runAll - 正在执行caseId=5的用例
+2019-02-11 09:13:55,282 - INFO -newRun.py : 191 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=ace635094e274af3b715212c733aa6f4'}
+2019-02-11 09:13:55,471 - INFO -newRun.py : 257 :excute_case - headers信息写入配置文件成功--->DIS4=ace635094e274af3b715212c733aa6f4; Expires=Tue, 11-Feb-2020 01:13:47 GMT; Max-Age=31536000; Path=/
+2019-02-11 09:13:55,626 - INFO -newRun.py : 488 :runAll - 本次测试执行完毕，共耗时0.6秒，共执行用例：2条，成功：0条，失败：1条，阻塞：1条
+2019-02-11 09:13:55,627 - INFO -report.py : 148 :get_report - 正在写入用例执行情况
+2019-02-11 15:56:59,248 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple.xlsx
+2019-02-11 15:56:59,248 - INFO -newRun.py : 415 :runAll - 共获取2条用例
+2019-02-11 15:56:59,254 - INFO -newRun.py : 429 :runAll - 正在执行caseId=3的用例
+2019-02-11 15:56:59,323 - INFO -newRun.py : 184 :excute_case - 此次接口请求的header信息为--->None
+2019-02-11 15:56:59,455 - INFO -newRun.py : 143 :request_api - headers信息写入配置文件成功--->7676d94e856e49ce8377bb7ab63f9b76
+2019-02-11 15:56:59,530 - INFO -newRun.py : 429 :runAll - 正在执行caseId=5的用例
+2019-02-11 15:56:59,530 - INFO -newRun.py : 184 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=7676d94e856e49ce8377bb7ab63f9b76'}
+2019-02-11 15:56:59,700 - INFO -newRun.py : 250 :excute_case - headers信息写入配置文件成功--->DIS4=7676d94e856e49ce8377bb7ab63f9b76; Expires=Tue, 11-Feb-2020 07:56:50 GMT; Max-Age=31536000; Path=/
+2019-02-11 15:56:59,844 - INFO -newRun.py : 481 :runAll - 本次测试执行完毕，共耗时0.59秒，共执行用例：2条，成功：0条，失败：1条，阻塞：1条
+2019-02-11 15:56:59,845 - INFO -report.py : 148 :get_report - 正在写入用例执行情况
+2019-02-11 16:00:47,036 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple.xlsx
+2019-02-11 16:00:47,036 - INFO -newRun.py : 415 :runAll - 共获取2条用例
+2019-02-11 16:00:47,330 - INFO -newRun.py : 429 :runAll - 正在执行caseId=3的用例
+2019-02-11 16:00:47,347 - INFO -newRun.py : 184 :excute_case - 此次接口请求的header信息为--->None
+2019-02-11 16:00:47,482 - INFO -newRun.py : 143 :request_api - headers信息写入配置文件成功--->fe7bc79940d84843a7aec0ec9883bbd7
+2019-02-11 16:00:47,615 - INFO -newRun.py : 429 :runAll - 正在执行caseId=5的用例
+2019-02-11 16:00:47,616 - INFO -newRun.py : 184 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=fe7bc79940d84843a7aec0ec9883bbd7'}
+2019-02-11 16:00:47,782 - INFO -newRun.py : 250 :excute_case - headers信息写入配置文件成功--->DIS4=fe7bc79940d84843a7aec0ec9883bbd7; Expires=Tue, 11-Feb-2020 08:00:38 GMT; Max-Age=31536000; Path=/
+2019-02-11 16:00:47,872 - INFO -newRun.py : 481 :runAll - 本次测试执行完毕，共耗时0.84秒，共执行用例：2条，成功：0条，失败：1条，阻塞：1条
+2019-02-11 16:00:47,873 - INFO -report.py : 148 :get_report - 正在写入用例执行情况
+2019-02-11 16:19:07,045 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple.xlsx
+2019-02-11 16:19:07,046 - INFO -newRun.py : 415 :runAll - 共获取2条用例
+2019-02-11 16:19:07,051 - INFO -newRun.py : 429 :runAll - 正在执行caseId=3的用例
+2019-02-11 16:19:07,161 - INFO -newRun.py : 184 :excute_case - 此次接口请求的header信息为--->None
+2019-02-11 16:19:07,250 - INFO -newRun.py : 143 :request_api - headers信息写入配置文件成功--->31cbd0b007d04575841343a24fce7ed3
+2019-02-11 16:19:07,320 - INFO -newRun.py : 429 :runAll - 正在执行caseId=5的用例
+2019-02-11 16:19:07,321 - INFO -newRun.py : 184 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=31cbd0b007d04575841343a24fce7ed3'}
+2019-02-11 16:19:07,498 - INFO -newRun.py : 250 :excute_case - headers信息写入配置文件成功--->DIS4=31cbd0b007d04575841343a24fce7ed3; Expires=Tue, 11-Feb-2020 08:18:58 GMT; Max-Age=31536000; Path=/
+2019-02-11 16:19:07,565 - INFO -newRun.py : 481 :runAll - 本次测试执行完毕，共耗时0.52秒，共执行用例：2条，成功：0条，失败：1条，阻塞：1条
+2019-02-11 16:19:07,566 - INFO -report.py : 148 :get_report - 正在写入用例执行情况

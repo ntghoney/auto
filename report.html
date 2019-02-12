@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            var resultSet = [{
+                "caseId": 1,
+                "caseDescribe": "创建用户",
+                "apiHost": "/s5/create_user",
+                "apiParams": "",
+                "expect": "{}",
+                "fact": "{\n \"err_code\": 0,\n \"err_msg\": \"\",\n \"messages\": [],\n \"payload\": {\n \"uid\": 316\n }\n}",
+                "databaseExpect": " ",
+                "databaseResult": "[{\"id\": 10, \"number\": \"17711794026\", \"verify\": \"4883\", \"call_sid\": \"6osIGuEGZ1QbZpg0BEBtNwZBFWM9oGOI\", \"date_created\": datetime.datetime(2019, 1, 30, 13, 37, 40), \"status\": 0, \"updated_at\": datetime.datetime(2019, 1, 30, 13, 39, 56), \"created_at\": \"0000-00-00 00:00:00\"}]",
+                "ispass": "block",
+                "time": "2019/01/30 13:42:15",
+                "reason": "数据库检查点未设置"
+            }, {
+                "caseId": 2,
+                "caseDescribe": "绑定手机",
+                "apiHost": "/s4/bindMobile",
+                "apiParams": "{\"err_code\":\"17711794026\",\"err_msg\":\"4883\"}",
+                "expect": "{}",
+                "fact": "{\n \"err_code\": 0,\n \"err_msg\": \"缺少参数：phone\",\n \"payload\": {}\n}",
+                "databaseExpect": " ",
+                "databaseResult": " ",
+                "ispass": "block",
+                "time": "2019/01/30 13:42:15",
+                "reason": "检查点未设置"
+            }, {
+                "caseId": 3,
+                "caseDescribe": "登录",
+                "apiHost": "/s4/login.mobile",
+                "apiParams": "{\"phone\":\"17711794026\",\"code\":\"4883\"}",
+                "expect": "{\"payload\": {\"uid\": \"312\"}, \"err_code\": \"0\"}",
+                "fact": "{\n \"err_code\": 0,\n \"err_msg\": \"\",\n \"messages\": [],\n \"payload\": {\n \"uid\": 312\n }\n}",
+                "databaseExpect": null,
+                "databaseResult": " ",
+                "ispass": "fail",
+                "time": "2019/01/30 13:42:15",
+                "reason": "数据库检查失败，预期返回2条数据，实际返回0条数据"
+            }, {
+                "caseId": 4,
+                "caseDescribe": "主页",
+                "apiHost": "/s4/dashboard",
+                "apiParams": "",
+                "expect": "{}",
+                "fact": "{\"messages\": [], \"err_code\": 0, \"payload\": {\"total_reward\": \"0.00\", \"avatar\": \"http://assets.qkcdn.com/images/3e47821eac70fc51d816ba0d9cd285f9.png!200x200/rotate/auto\", \"uid\": 312, \"show_customer\": 1, \"is_unionpay\": 0, \"is_investigation\": 0, \"has_finished_task_once\": 0, \"shoutu_handle_result\": \"\", \"withdraw_num\": 0, \"bind_udid\": 0, \"balance\": \"0.00\", \"new_year\": {}, \"is_lite\": 1, \"nickname\": \"\", \"gift\": 0, \"create_day\": 20190128, \"webclip\": \"\", \"invite_code\": \"0\", \"today_reward\": \"0.00\", \"bind_mobile\": \"17711794026\", \"jfb_account\": {\"total\": \"0\", \"today_to_price\": \"0.00\", \"convert_to_price\": \"0.00\", \"is_open\": 1, \"convert\": \"0\", \"surplus\": \"0\", \"today\": \"0\", \"total_to_price\": \"0.00\", \"surplus_to_price\": \"0.00\"}}, \"err_msg\": \"\"}",
+                "databaseExpect": " ",
+                "databaseResult": " ",
+                "ispass": "block",
+                "time": "2019/01/30 13:42:15",
+                "reason": "检查点未设置"
+            }, {
+                "caseId": 5,
+                "caseDescribe": "用户账户相关接口",
+                "apiHost": "/s4/users.accounts.getDetail",
+                "apiParams": "{\"active\":1}",
+                "expect": "{}",
+                "fact": "{\"messages\": [], \"err_code\": 0, \"payload\": [], \"err_msg\": \"\"}",
+                "databaseExpect": " ",
+                "databaseResult": " ",
+                "ispass": "block",
+                "time": "2019/01/30 13:42:16",
+                "reason": "检查点未设置"
+            }];
+
+            for (var i = 0; i <= resultSet.length; i++) {
+                tras = "<tr>" +
+                    "<td>" + resultSet[i].caseId + "</td>" +
+                    "<td>" + resultSet[i].caseDescribe + "</td>" +
+                    "<td>" + resultSet[i].apiHost + "</td>" +
+                    "<td>" + resultSet[i].apiParams + "</td>" +
+                    "<td>" + resultSet[i].expect + "</td>" +
+                    "<td>" + resultSet[i].fact + "</td>" +
+                    "<td>" + resultSet[i].databaseResult + "</td>" +
+                    "<td>" + resultSet[i].databaseExpect + "</td>" +
+                    "<td>" + resultSet[i].ispass + "</td>" +
+                    "<td>" + resultSet[i].time + "</td>" +
+                    "<td>" + resultSet[i].reason + "</td>" +
+                    "</tr>";
+
+                $("#tab").append(tras);
+            }
+            $("td").each(function () {
+                var max = 10;
+                if ($(this).text().length > max) {
+                    // $(this).attr("title", $(this).text());
+                    //获取td的值,进行截取。赋值给text变量保存.
+                    var text = $(this).text().substring(0, 25) + "...<span>展开</span>";
+                    //重新为td赋值;
+                    $(this).html(text);
+                }
+            });
+
+            // var tr = "<tr>" +
+            //
+            //     "<td>" + resultSet.caseId + "</td>" +
+            //     "<td>" + resultSet.caseDescribe + "</td>" +
+            //     "<td>" + resultSet.apiHost + "</td>" +
+            //     "<td>" + resultSet.apiParams + "</td>" +
+            //     "<td>" + resultSet.expect + "</td>" +
+            //     "<td>" + resultSet.fact + "</td>" +
+            //     "<td>" + resultSet.databaseResult + "</td>" +
+            //     "<td>" + resultSet.databaseExpect + "</td>" +
+            //     "<td>" + resultSet.ispass + "</td>" +
+            //     "<td>" + resultSet.time + "</td>" +
+            //     "<td>" + resultSet.reason + "</td>" +
+            //     "</tr>";
+            // $("#tab").append(tr);
+        });
+    </script>
+    <style type="text/css">
+        /*td {*/
+        /*height: 20px;*/
+        /*background: darkgray;*/
+        /*width: 120px;*/
+        /*overflow: hidden;*/
+        /*}*/
+
+        /*table {*/
+
+        /*table-layout: fixed; !* 只有定义了表格的布局算法为fixed，下面td的定义才能起作用。 *!*/
+        /*}*/
+
+        /*td {*/
+        /*width: 100%;*/
+        /*word-break: keep-all; !* 不换行 *!*/
+        /*white-space: nowrap; !* 不换行 *!*/
+        /*overflow: hidden; !* 内容超出宽度时隐藏超出部分的内容 *!*/
+        /*text-overflow: ellipsis; !* 当对象内文本溢出时显示省略标记(...) ；需与overflow:hidden;一起使用。*!*/
+        /*}*/
+    </style>
+</head>
+<body>
+<div>
+    <div style="text-align: center">接口自动化测试报告</div>
+    <div>1122212</div>
+    <div>
+        <table border="1" cellpadding="20" cellspacing="0" id="tab" width="1400px">
+            <tr>
+                <td>用例编号</td>
+                <td>用例名称</td>
+                <td>接口路径</td>
+                <td>接口参数</td>
+                <td>预期结果</td>
+                <td>实际结果</td>
+                <td>sql查询结果</td>
+                <td>sql期望</td>
+                <td>测试判定</td>
+                <td>测试时间</td>
+                <td>失败原因</td>
+            </tr>
+        </table>
+    </div>
+    <div>
+        <button id="btn">测试</button>
+    </div>
+</div>
+</body>
+</html>
