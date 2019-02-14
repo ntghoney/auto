@@ -33,6 +33,7 @@ class PaserExc(object):
     def get_ncols(self):
         return self.sheet.ncols
 
+
     # 按行获得所有数据
     def get_row(self):
         rowValue = []

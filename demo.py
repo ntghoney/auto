@@ -10,6 +10,7 @@ import pytest_html
 
 
 
+
 import requests
 headers={"cookie":'DIS4=f3002ea4638a4b8b902b4da0a9c882b8; Expires=Wed, 22-Jan-2020 03:11:05 GMT; Max-Age=31536000; Path=/, lu=26; Expires=Wed, 22-Jan-2020 03:11:05 GMT; Max-Age=31536000; Path=/, ln=1; Expires=Wed, 22-Jan-2020 03:11:05 GMT; Max-Age=31536000; Path=/',
          # "User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16B92 version=2.0.2018101201 bid=com.he.ar",

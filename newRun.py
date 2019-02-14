@@ -66,6 +66,7 @@ class Http(object):
     """
     请求封装，post,get
     """
+
     @classmethod
     def get(cls, path, params=None, headers=None):
         res = requests.get(test_env + path, params=params, headers=headers)
@@ -234,6 +235,9 @@ def excute_case(case):
     log.info("此次接口请求的header信息为--->{}".format(headers))
     # 获得关联接口信息
     allRelatedApi = get_all_related_apiinfo(caseId, relatedApi)
+    # 判断用例执行的接口所关联的接口是否执行
+    if isinstance(allRelatedApi, str):
+        return allRelatedApi
     # 如果len(allRelatedApi)>1,说明该接口没有关联接口
     if len(allRelatedApi) > 1:
         apiHeaders = headers
@@ -450,8 +454,6 @@ def runAll():
     运行所有用例
     :return:
     """
-    # if os.path.exists(report.reportPath) and report.reportPath.c
-
     # 开始测试之前先清除数据库前一次测试储存的数据
     con.truncate_data(TABLECASE)
     con.truncate_data(TABLERESULT)
@@ -496,6 +498,7 @@ def runAll():
         # 将执行结果写入数据库临时保存
         con.insert_data(TABLERESULT, **result)
         resultSet.append(result)
+    print(resultSet)
     end_time = time.time()
     time_consum = end_time - start_time  # 测试耗时
     case_count = con.query_all(
@@ -527,7 +530,7 @@ def runAll():
     else:
         success_case = len(success_case)
     result_info = "本次测试执行完毕，本次测试环境为：{}，共耗时{}秒，共执行用例：{}条，成功：{}条，失败：{}条，阻塞：{}条" \
-        .format(test_env,float("%.2f" % time_consum), case_count, success_case, fail_case, block_case)
+        .format(test_env, float("%.2f" % time_consum), case_count, success_case, fail_case, block_case)
     log.info(result_info)
     # 将测试结果写入测试报告
     report.set_result_info(result_info)

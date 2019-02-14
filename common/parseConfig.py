@@ -35,7 +35,7 @@ class ParseConfig(object):
         # 配置文件所在路径
         self.path = setPath(pathName="config", fileName="info.ini")
         self.cf = ConfigParser()
-        self.cf.read(self.path)
+        self.cf.read(self.path,encoding="gbk")
 
     # 根据section读取配置文件信息，返回数据字典
     def get_info(self, section):
@@ -60,7 +60,7 @@ class ParseConfig(object):
         if section not in self.cf.sections():
             self.cf.add_section(section)
         self.cf.set(section, option, info)
-        with open(self.path, "w") as f:
+        with open(self.path, "w",encoding="gbk") as f:
             self.cf.write(f)
             f.close()
 

@@ -1,0 +1,184 @@
+2019-02-13 11:02:13,150 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple.xlsx
+2019-02-13 11:02:13,153 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple1.xlsx
+2019-02-13 11:02:13,154 - INFO -newRun.py : 463 :runAll - 共获取10条用例
+2019-02-13 11:02:13,173 - INFO -newRun.py : 477 :runAll - 正在执行caseId=1的用例
+2019-02-13 11:02:13,174 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->None
+2019-02-13 11:02:13,331 - INFO -newRun.py : 193 :request_api - headers信息写入配置文件成功--->5e63a44432ff45bb881808f37545b13c
+2019-02-13 11:02:13,385 - INFO -newRun.py : 477 :runAll - 正在执行caseId=2的用例
+2019-02-13 11:02:13,386 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=5e63a44432ff45bb881808f37545b13c'}
+2019-02-13 11:02:13,580 - INFO -newRun.py : 477 :runAll - 正在执行caseId=3的用例
+2019-02-13 11:02:13,697 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->None
+2019-02-13 11:02:13,844 - INFO -newRun.py : 193 :request_api - headers信息写入配置文件成功--->0e23bf79680a47a8a2ff6be0667ee540
+2019-02-13 11:02:13,875 - INFO -newRun.py : 477 :runAll - 正在执行caseId=4的用例
+2019-02-13 11:02:13,876 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0e23bf79680a47a8a2ff6be0667ee540'}
+2019-02-13 11:02:14,085 - INFO -newRun.py : 477 :runAll - 正在执行caseId=5的用例
+2019-02-13 11:02:14,086 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0e23bf79680a47a8a2ff6be0667ee540'}
+2019-02-13 11:02:14,254 - INFO -newRun.py : 300 :excute_case - headers信息写入配置文件成功--->DIS4=0e23bf79680a47a8a2ff6be0667ee540; Expires=Thu, 13-Feb-2020 03:02:04 GMT; Max-Age=31536000; Path=/
+2019-02-13 11:02:14,340 - INFO -newRun.py : 477 :runAll - 正在执行caseId=1的用例
+2019-02-13 11:02:14,341 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->None
+2019-02-13 11:02:14,507 - INFO -newRun.py : 193 :request_api - headers信息写入配置文件成功--->3fb516e673604b559c6a69cd652c1281
+2019-02-13 11:02:14,549 - INFO -newRun.py : 477 :runAll - 正在执行caseId=2的用例
+2019-02-13 11:02:14,550 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=3fb516e673604b559c6a69cd652c1281'}
+2019-02-13 11:02:14,639 - INFO -newRun.py : 477 :runAll - 正在执行caseId=3的用例
+2019-02-13 11:02:14,778 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->None
+2019-02-13 11:02:14,897 - INFO -newRun.py : 193 :request_api - headers信息写入配置文件成功--->1ccc7b0cd7fc4e77a2069921ac897044
+2019-02-13 11:02:14,939 - INFO -newRun.py : 477 :runAll - 正在执行caseId=4的用例
+2019-02-13 11:02:14,940 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=1ccc7b0cd7fc4e77a2069921ac897044'}
+2019-02-13 11:02:15,049 - INFO -newRun.py : 477 :runAll - 正在执行caseId=5的用例
+2019-02-13 11:02:15,050 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=1ccc7b0cd7fc4e77a2069921ac897044'}
+2019-02-13 11:02:15,172 - INFO -newRun.py : 300 :excute_case - headers信息写入配置文件成功--->DIS4=1ccc7b0cd7fc4e77a2069921ac897044; Expires=Thu, 13-Feb-2020 03:02:05 GMT; Max-Age=31536000; Path=/
+2019-02-13 11:02:15,336 - INFO -newRun.py : 530 :runAll - 本次测试执行完毕，本次测试环境为：http://fp02.ops.gaoshou.me，共耗时2.18秒，共执行用例：10条，成功：4条，失败：4条，阻塞：2条
+2019-02-13 11:02:15,340 - INFO -report.py : 148 :get_report - 正在写入用例执行情况
+2019-02-13 11:06:17,166 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple.xlsx
+2019-02-13 11:06:17,174 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple1.xlsx
+2019-02-13 11:06:17,174 - INFO -newRun.py : 463 :runAll - 共获取5条用例
+2019-02-13 11:06:17,190 - INFO -newRun.py : 477 :runAll - 正在执行caseId=1的用例
+2019-02-13 11:06:17,191 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->None
+2019-02-13 11:06:17,380 - INFO -newRun.py : 193 :request_api - headers信息写入配置文件成功--->14487f5b827b4e2bb72c47055853ffb5
+2019-02-13 11:06:17,457 - INFO -newRun.py : 477 :runAll - 正在执行caseId=2的用例
+2019-02-13 11:06:17,458 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=14487f5b827b4e2bb72c47055853ffb5'}
+2019-02-13 11:06:17,651 - INFO -newRun.py : 477 :runAll - 正在执行caseId=3的用例
+2019-02-13 11:06:17,682 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->None
+2019-02-13 11:06:17,888 - INFO -newRun.py : 193 :request_api - headers信息写入配置文件成功--->f8d83932ba7d4ff38de64bea389b1126
+2019-02-13 11:06:17,922 - INFO -newRun.py : 477 :runAll - 正在执行caseId=4的用例
+2019-02-13 11:06:17,923 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=f8d83932ba7d4ff38de64bea389b1126'}
+2019-02-13 11:06:18,066 - INFO -newRun.py : 477 :runAll - 正在执行caseId=5的用例
+2019-02-13 11:06:18,066 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=f8d83932ba7d4ff38de64bea389b1126'}
+2019-02-13 11:06:18,141 - INFO -newRun.py : 300 :excute_case - headers信息写入配置文件成功--->DIS4=f8d83932ba7d4ff38de64bea389b1126; Expires=Thu, 13-Feb-2020 03:06:08 GMT; Max-Age=31536000; Path=/
+2019-02-13 11:06:18,237 - INFO -newRun.py : 530 :runAll - 本次测试执行完毕，本次测试环境为：http://fp02.ops.gaoshou.me，共耗时1.06秒，共执行用例：5条，成功：2条，失败：2条，阻塞：1条
+2019-02-13 11:06:18,240 - INFO -report.py : 148 :get_report - 正在写入用例执行情况
+2019-02-13 11:08:29,213 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple.xlsx
+2019-02-13 11:08:29,218 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple1.xlsx
+2019-02-13 11:08:29,218 - INFO -newRun.py : 463 :runAll - 共获取3条用例
+2019-02-13 11:08:29,226 - INFO -newRun.py : 477 :runAll - 正在执行caseId=2的用例
+2019-02-13 11:08:29,226 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=f8d83932ba7d4ff38de64bea389b1126'}
+2019-02-13 11:08:29,414 - INFO -newRun.py : 477 :runAll - 正在执行caseId=4的用例
+2019-02-13 11:08:29,415 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=f8d83932ba7d4ff38de64bea389b1126'}
+2019-02-13 11:08:29,496 - INFO -newRun.py : 477 :runAll - 正在执行caseId=5的用例
+2019-02-13 11:08:29,497 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=f8d83932ba7d4ff38de64bea389b1126'}
+2019-02-13 11:08:29,497 - ERROR -newRun.py : 167 :get_all_related_apiinfo - 接口5所关联的接口3在用例中没有选择执行
+2019-02-13 11:09:27,876 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple.xlsx
+2019-02-13 11:09:27,879 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple1.xlsx
+2019-02-13 11:09:27,880 - INFO -newRun.py : 463 :runAll - 共获取5条用例
+2019-02-13 11:09:27,890 - INFO -newRun.py : 477 :runAll - 正在执行caseId=1的用例
+2019-02-13 11:09:27,890 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->None
+2019-02-13 11:09:28,061 - INFO -newRun.py : 193 :request_api - headers信息写入配置文件成功--->ba7632f6d1c74df5a0c165b9b29cf5e1
+2019-02-13 11:09:28,115 - INFO -newRun.py : 477 :runAll - 正在执行caseId=2的用例
+2019-02-13 11:09:28,116 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=ba7632f6d1c74df5a0c165b9b29cf5e1'}
+2019-02-13 11:09:28,263 - INFO -newRun.py : 477 :runAll - 正在执行caseId=3的用例
+2019-02-13 11:09:28,345 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->None
+2019-02-13 11:09:28,468 - INFO -newRun.py : 193 :request_api - headers信息写入配置文件成功--->0aff5106bf2045bcbe8107a3151e0846
+2019-02-13 11:09:28,518 - INFO -newRun.py : 477 :runAll - 正在执行caseId=4的用例
+2019-02-13 11:09:28,519 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 11:09:28,652 - INFO -newRun.py : 477 :runAll - 正在执行caseId=5的用例
+2019-02-13 11:09:28,652 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 11:09:28,748 - INFO -newRun.py : 300 :excute_case - headers信息写入配置文件成功--->DIS4=0aff5106bf2045bcbe8107a3151e0846; Expires=Thu, 13-Feb-2020 03:09:18 GMT; Max-Age=31536000; Path=/
+2019-02-13 11:09:28,868 - INFO -newRun.py : 530 :runAll - 本次测试执行完毕，本次测试环境为：http://fp02.ops.gaoshou.me，共耗时0.99秒，共执行用例：5条，成功：2条，失败：2条，阻塞：1条
+2019-02-13 11:09:28,872 - INFO -report.py : 148 :get_report - 正在写入用例执行情况
+2019-02-13 11:09:51,735 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple.xlsx
+2019-02-13 11:09:51,741 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple1.xlsx
+2019-02-13 11:09:51,742 - INFO -newRun.py : 463 :runAll - 共获取3条用例
+2019-02-13 11:09:51,750 - INFO -newRun.py : 477 :runAll - 正在执行caseId=2的用例
+2019-02-13 11:09:51,750 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 11:09:51,906 - INFO -newRun.py : 477 :runAll - 正在执行caseId=4的用例
+2019-02-13 11:09:51,906 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 11:09:52,028 - INFO -newRun.py : 477 :runAll - 正在执行caseId=5的用例
+2019-02-13 11:09:52,029 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 11:09:52,204 - INFO -newRun.py : 530 :runAll - 本次测试执行完毕，本次测试环境为：http://fp02.ops.gaoshou.me，共耗时0.46秒，共执行用例：3条，成功：2条，失败：0条，阻塞：1条
+2019-02-13 11:09:52,208 - INFO -report.py : 148 :get_report - 正在写入用例执行情况
+2019-02-13 11:13:22,912 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple.xlsx
+2019-02-13 11:13:22,918 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple1.xlsx
+2019-02-13 11:13:22,918 - INFO -newRun.py : 463 :runAll - 共获取3条用例
+2019-02-13 11:13:22,927 - INFO -newRun.py : 477 :runAll - 正在执行caseId=2的用例
+2019-02-13 11:13:22,927 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 11:13:22,928 - ERROR -newRun.py : 167 :get_all_related_apiinfo - 接口2所关联的接口1在用例中没有选择执行
+2019-02-13 11:18:12,459 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple.xlsx
+2019-02-13 11:18:12,464 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple1.xlsx
+2019-02-13 11:18:12,464 - INFO -newRun.py : 464 :runAll - 共获取3条用例
+2019-02-13 11:18:12,471 - INFO -newRun.py : 478 :runAll - 正在执行caseId=2的用例
+2019-02-13 11:18:12,472 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 11:18:12,473 - ERROR -newRun.py : 167 :get_all_related_apiinfo - 接口2所关联的接口1在用例中没有选择执行
+2019-02-13 11:21:18,244 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple.xlsx
+2019-02-13 11:21:18,248 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple1.xlsx
+2019-02-13 11:21:18,248 - INFO -newRun.py : 466 :runAll - 共获取3条用例
+2019-02-13 11:21:18,255 - INFO -newRun.py : 480 :runAll - 正在执行caseId=2的用例
+2019-02-13 11:21:18,255 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 11:21:18,256 - ERROR -newRun.py : 167 :get_all_related_apiinfo - 接口2所关联的接口1在用例中没有选择执行
+2019-02-13 11:21:18,257 - INFO -newRun.py : 480 :runAll - 正在执行caseId=4的用例
+2019-02-13 11:21:18,258 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 11:21:18,434 - INFO -newRun.py : 480 :runAll - 正在执行caseId=5的用例
+2019-02-13 11:21:18,435 - INFO -newRun.py : 234 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 11:21:18,593 - INFO -newRun.py : 533 :runAll - 本次测试执行完毕，本次测试环境为：http://fp02.ops.gaoshou.me，共耗时0.34秒，共执行用例：3条，成功：2条，失败：1条，阻塞：0条
+2019-02-13 11:21:18,596 - INFO -report.py : 148 :get_report - 正在写入用例执行情况
+2019-02-13 16:26:38,397 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple.xlsx
+2019-02-13 16:26:38,402 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple1.xlsx
+2019-02-13 16:26:38,402 - INFO -newRun.py : 467 :runAll - 共获取3条用例
+2019-02-13 16:26:38,408 - INFO -newRun.py : 481 :runAll - 正在执行caseId=2的用例
+2019-02-13 16:26:38,409 - INFO -newRun.py : 235 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 16:26:38,409 - ERROR -newRun.py : 168 :get_all_related_apiinfo - 接口2所关联的接口1在用例中没有选择执行
+2019-02-13 16:26:38,410 - INFO -newRun.py : 481 :runAll - 正在执行caseId=4的用例
+2019-02-13 16:26:38,410 - INFO -newRun.py : 235 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 16:26:38,486 - INFO -newRun.py : 481 :runAll - 正在执行caseId=5的用例
+2019-02-13 16:26:38,486 - INFO -newRun.py : 235 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 16:26:38,557 - INFO -newRun.py : 534 :runAll - 本次测试执行完毕，本次测试环境为：http://fp02.ops.gaoshou.me，共耗时0.15秒，共执行用例：3条，成功：2条，失败：1条，阻塞：0条
+2019-02-13 16:26:38,558 - INFO -report.py : 148 :get_report - 正在写入用例执行情况
+2019-02-13 16:50:24,574 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple.xlsx
+2019-02-13 16:50:24,580 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple1.xlsx
+2019-02-13 16:50:24,581 - INFO -newRun.py : 467 :runAll - 共获取3条用例
+2019-02-13 16:50:24,592 - INFO -newRun.py : 481 :runAll - 正在执行caseId=2的用例
+2019-02-13 16:50:24,592 - INFO -newRun.py : 235 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 16:50:24,595 - ERROR -newRun.py : 168 :get_all_related_apiinfo - 接口2所关联的接口1在用例中没有选择执行
+2019-02-13 16:50:24,597 - INFO -newRun.py : 481 :runAll - 正在执行caseId=4的用例
+2019-02-13 16:50:24,597 - INFO -newRun.py : 235 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 16:50:24,815 - INFO -newRun.py : 481 :runAll - 正在执行caseId=5的用例
+2019-02-13 16:50:24,816 - INFO -newRun.py : 235 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 16:50:24,977 - INFO -newRun.py : 534 :runAll - 本次测试执行完毕，本次测试环境为：http://fp02.ops.gaoshou.me，共耗时0.39秒，共执行用例：3条，成功：2条，失败：1条，阻塞：0条
+2019-02-13 16:50:24,981 - INFO -report.py : 148 :get_report - 正在写入用例执行情况
+2019-02-13 16:50:35,190 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple.xlsx
+2019-02-13 16:50:35,200 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple1.xlsx
+2019-02-13 16:50:35,200 - INFO -newRun.py : 467 :runAll - 共获取3条用例
+2019-02-13 16:50:35,210 - INFO -newRun.py : 481 :runAll - 正在执行caseId=2的用例
+2019-02-13 16:50:35,220 - INFO -newRun.py : 235 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 16:50:35,223 - ERROR -newRun.py : 168 :get_all_related_apiinfo - 接口2所关联的接口1在用例中没有选择执行
+2019-02-13 16:50:35,225 - INFO -newRun.py : 481 :runAll - 正在执行caseId=4的用例
+2019-02-13 16:50:35,235 - INFO -newRun.py : 235 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 16:50:35,422 - INFO -newRun.py : 481 :runAll - 正在执行caseId=5的用例
+2019-02-13 16:50:35,441 - INFO -newRun.py : 235 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 16:50:35,656 - INFO -newRun.py : 534 :runAll - 本次测试执行完毕，本次测试环境为：http://fp02.ops.gaoshou.me，共耗时0.45秒，共执行用例：3条，成功：2条，失败：1条，阻塞：0条
+2019-02-13 16:50:35,665 - INFO -report.py : 148 :get_report - 正在写入用例执行情况
+2019-02-13 16:50:45,945 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple.xlsx
+2019-02-13 16:50:45,952 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple1.xlsx
+2019-02-13 16:50:45,953 - INFO -newRun.py : 467 :runAll - 共获取3条用例
+2019-02-13 16:50:45,962 - INFO -newRun.py : 481 :runAll - 正在执行caseId=2的用例
+2019-02-13 16:50:45,972 - INFO -newRun.py : 235 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 16:50:45,974 - ERROR -newRun.py : 168 :get_all_related_apiinfo - 接口2所关联的接口1在用例中没有选择执行
+2019-02-13 16:50:45,977 - INFO -newRun.py : 481 :runAll - 正在执行caseId=4的用例
+2019-02-13 16:50:45,987 - INFO -newRun.py : 235 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 16:50:46,146 - INFO -newRun.py : 481 :runAll - 正在执行caseId=5的用例
+2019-02-13 16:50:46,181 - INFO -newRun.py : 235 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 16:50:46,305 - INFO -newRun.py : 534 :runAll - 本次测试执行完毕，本次测试环境为：http://fp02.ops.gaoshou.me，共耗时0.35秒，共执行用例：3条，成功：2条，失败：1条，阻塞：0条
+2019-02-13 16:50:46,315 - INFO -report.py : 148 :get_report - 正在写入用例执行情况
+2019-02-13 16:50:55,948 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple.xlsx
+2019-02-13 16:50:55,957 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple1.xlsx
+2019-02-13 16:50:55,957 - INFO -newRun.py : 467 :runAll - 共获取3条用例
+2019-02-13 16:50:55,965 - INFO -newRun.py : 481 :runAll - 正在执行caseId=2的用例
+2019-02-13 16:50:55,969 - INFO -newRun.py : 235 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 16:50:55,971 - ERROR -newRun.py : 168 :get_all_related_apiinfo - 接口2所关联的接口1在用例中没有选择执行
+2019-02-13 16:50:55,972 - INFO -newRun.py : 481 :runAll - 正在执行caseId=4的用例
+2019-02-13 16:50:55,976 - INFO -newRun.py : 235 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 16:50:56,092 - INFO -newRun.py : 481 :runAll - 正在执行caseId=5的用例
+2019-02-13 16:50:56,105 - INFO -newRun.py : 235 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 16:50:56,310 - INFO -newRun.py : 534 :runAll - 本次测试执行完毕，本次测试环境为：http://fp02.ops.gaoshou.me，共耗时0.35秒，共执行用例：3条，成功：2条，失败：1条，阻塞：0条
+2019-02-13 16:50:56,319 - INFO -report.py : 148 :get_report - 正在写入用例执行情况
+2019-02-13 16:50:58,954 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple.xlsx
+2019-02-13 16:50:58,958 - INFO -parseExc.py : 22 :__init__ - 用例路径：E:\project\ApiTest\cases\case_exmple1.xlsx
+2019-02-13 16:50:58,958 - INFO -newRun.py : 467 :runAll - 共获取3条用例
+2019-02-13 16:50:58,965 - INFO -newRun.py : 481 :runAll - 正在执行caseId=2的用例
+2019-02-13 16:50:58,965 - INFO -newRun.py : 235 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 16:50:58,966 - ERROR -newRun.py : 168 :get_all_related_apiinfo - 接口2所关联的接口1在用例中没有选择执行
+2019-02-13 16:50:58,967 - INFO -newRun.py : 481 :runAll - 正在执行caseId=4的用例
+2019-02-13 16:50:58,967 - INFO -newRun.py : 235 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 16:50:59,141 - INFO -newRun.py : 481 :runAll - 正在执行caseId=5的用例
+2019-02-13 16:50:59,141 - INFO -newRun.py : 235 :excute_case - 此次接口请求的header信息为--->{'Accept': '*/*', 'Content-Type': 'application/json;charset=utf-8', 'cookie': 'DIS4=0aff5106bf2045bcbe8107a3151e0846'}
+2019-02-13 16:50:59,298 - INFO -newRun.py : 534 :runAll - 本次测试执行完毕，本次测试环境为：http://fp02.ops.gaoshou.me，共耗时0.34秒，共执行用例：3条，成功：2条，失败：1条，阻塞：0条
+2019-02-13 16:50:59,300 - INFO -report.py : 148 :get_report - 正在写入用例执行情况

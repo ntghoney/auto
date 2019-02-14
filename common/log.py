@@ -25,7 +25,7 @@ class Log(object):
         # 这里进行判断，如果logger.handlers列表为空，则添加，否则，直接去写日志
         if not self.logger.handlers:
             # loggger 文件配置路径
-            self.handler = logging.FileHandler(self.logPath)
+            self.handler = logging.FileHandler(self.logPath,encoding="gbk")
         # logger 配置等级
         self.logger.setLevel(logging.DEBUG)
         formatter = logging.Formatter(
